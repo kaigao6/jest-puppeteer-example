@@ -3,6 +3,7 @@
   "scripts": {
     "test": "jest"
   },
+  
   "devDependencies": {
     "chalk": "^2.3.0",
     "jest": "^22.0.0",
